@@ -1,0 +1,17 @@
+{
+  "name": "ariadiprana-demo",
+  "version": "1.0.2",
+  "description": "A demo package for a video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "NPM Demo User <npm.demo.user@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
+}
