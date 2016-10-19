@@ -1,0 +1,22 @@
+{
+  "name": "syuper-package",
+  "version": "0.0.2",
+  "description": "package for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arctic-fox-2016/npm-package.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "andrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arctic-fox-2016/npm-package/issues"
+  },
+  "homepage": "https://github.com/arctic-fox-2016/npm-package#readme"
+}
