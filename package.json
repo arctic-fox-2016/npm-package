@@ -1,0 +1,22 @@
+{
+  "name": "sunshine-package",
+  "version": "1.0.0",
+  "description": "simply fresh package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arctic-fox-2016/npm-package.git"
+  },
+  "keywords": [
+    "shiny"
+  ],
+  "author": "Ryan Andhaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arctic-fox-2016/npm-package/issues"
+  },
+  "homepage": "https://github.com/arctic-fox-2016/npm-package#readme"
+}
