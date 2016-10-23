@@ -1,0 +1,25 @@
+{
+  "name": "diga-demo",
+  "version": "1.0.0",
+  "description": "a demo package npm - digachandra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arctic-fox-2016/npm-package.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Septhianto Diga <hi@digachandra.com> (digachandra.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arctic-fox-2016/npm-package/issues"
+  },
+  "homepage": "https://github.com/arctic-fox-2016/npm-package#readme",
+  "directories": {
+    "test": "test"
+  }
+}
